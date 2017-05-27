@@ -4,7 +4,6 @@ Enables you to take long exposure shots with a GoPro Hero 3 (Black or Plus).
 
 Settings:
 
-Value (number to write in hack file) 	Exposure Time (seconds)
 <table>
 <thead>
 <tr>
