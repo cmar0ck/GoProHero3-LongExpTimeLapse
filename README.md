@@ -1,4 +1,4 @@
-# GoPro Hero3 (Black and Plus)- Long Exposure / Timelapse Hack
+# GoPro Hero3 (Black and Plus) - Long Exposure / Timelapse Hack
 
 Enables you to take long exposure shots with a GoPro Hero 3 (Black or Plus).
 
