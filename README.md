@@ -4,7 +4,7 @@ Enables you to take long exposure shots with a GoPro Hero 3 (Black or Plus).
 
 Settings:
 
-``Value (number to write in hack file) 	Exposure Time (seconds)
+Value (number to write in hack file) 	Exposure Time (seconds)
 <table>
 <thead>
 <tr>
@@ -101,7 +101,6 @@ Settings:
 <td>1000</td>
 <td>0,000158328</td>
 </tr></tbody></table>
-``
 
 Table correlation discovered by /u/BlueEdition
 Original script by KonradIT, adjusted by meto better suit my needs
