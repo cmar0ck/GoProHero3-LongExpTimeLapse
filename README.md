@@ -102,4 +102,5 @@ Settings:
 </tr></tbody></table>
 
 Table correlation discovered by /u/BlueEdition
-Original script by KonradIT, adjusted by meto better suit my needs
+
+Original script by KonradIT, adjusted by me to better suit my needs
