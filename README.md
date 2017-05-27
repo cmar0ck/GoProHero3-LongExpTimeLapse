@@ -1,0 +1,1 @@
+# GoProHero3-LongExpTimeLapse
