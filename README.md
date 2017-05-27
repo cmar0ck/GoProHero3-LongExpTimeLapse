@@ -106,4 +106,4 @@ Settings:
 
 Table correlation discovered by /u/BlueEdition
 
-Original script by [KonradIT](https://github.com/KonradIT), adjusted by me to better suit my needs
+Original hack by [KonradIT](https://github.com/KonradIT), adjusted by me to suit my needs
