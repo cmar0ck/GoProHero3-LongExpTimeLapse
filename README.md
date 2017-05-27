@@ -2,6 +2,9 @@
 
 Enables you to take long exposure shots with a GoPro Hero 3 (Black or Plus).
 
+Usage:
+`` Copy autoexec.ash to root folder of your GoPro's microSD card``
+
 Settings:
 
 <table>
@@ -103,4 +106,4 @@ Settings:
 
 Table correlation discovered by /u/BlueEdition
 
-Original script by KonradIT, adjusted by me to better suit my needs
+Original script by [KonradIT](https://github.com/KonradIT), adjusted by me to better suit my needs
